@@ -1,5 +1,7 @@
 # Topal-MahmutAli
 
+### Etudiant en BUT 3 Informatique recherchant un stage de 14/16 semaines. Disponibilité : immédiate
+
 ## Langages
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="75"/>
