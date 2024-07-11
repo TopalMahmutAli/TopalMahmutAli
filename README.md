@@ -1,6 +1,6 @@
 # Topal-MahmutAli
 
-### Etudiant en BUT 3 Informatique recherchant un stage de 14/16 semaines. Disponibilité : immédiate
+### Etudiant en BUT 3 Informatique 
 
 ## Langages
 <p align="center">
