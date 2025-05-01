@@ -1,6 +1,6 @@
 # Topal-MahmutAli
 
-### Etudiant en BUT 3 Informatique 
+### Développeur Informatique  
 
 ## Langages
 <p align="center">
